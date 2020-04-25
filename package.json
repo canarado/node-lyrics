@@ -1,5 +1,5 @@
 {
-  "name": "node-lyrics",
+  "name": "node-lyrics-api",
   "version": "1.0.0",
   "description": "Grab lyrics for any song.",
   "main": "index.js",

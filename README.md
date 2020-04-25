@@ -1,11 +1,11 @@
-## node-lyrics
+## node-lyrics-api
 Grab lyrics for any song.
 
 Simply a wrapper around [the api located here](http://api.canarado.xyz), so visit there for more information on the API itself.
 
 This is a simple API to work with.
 ```js
-const lyrics = require('node-lyrics');
+const lyrics = require('node-lyrics-api');
 
 let ourSong = await lyrics('our song');
 
