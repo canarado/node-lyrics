@@ -1,7 +1,7 @@
 ## node-lyrics
 Grab lyrics for any song.
 
-Simply a wrapper around [this api](http://api.canarado.xyz), so visit there for more information on the API itself.
+Simply a wrapper around [the api located here](http://api.canarado.xyz), so visit there for more information on the API itself.
 
 This is a simple API to work with.
 ```js
